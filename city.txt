@@ -1,4 +1,3 @@
 HYD
 Dheli
-pune
-mumbai
+NRT
